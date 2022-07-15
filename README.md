@@ -1,0 +1,2 @@
+# Dic-Intern
+Assignments
